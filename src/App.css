@@ -1,0 +1,16 @@
+#root {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+button {
+  font-size: 26px;
+  margin-bottom: 15px;
+}
+
+.counter {
+  font-size: 46px;
+}
